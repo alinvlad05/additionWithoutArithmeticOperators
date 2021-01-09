@@ -10,9 +10,7 @@ Carry applies 1 position to the left
 <<1
 
 for example:
-01+
-01
-=
-10 discovered at 01
+01+01=10 discovered at 01
+
 
 
